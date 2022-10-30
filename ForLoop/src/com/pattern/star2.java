@@ -1,3 +1,9 @@
+/*
+ * wap to Star pattern
+* @Author :Laxmi Toppo
+ * @Date :28 oct 2022
+ */
+
 package com.pattern;
 
 public class star2 {
